@@ -1,0 +1,13 @@
+2601:1d08:5000::/44,US,US-MO,Kansas City,,
+
+2a0a:6044:aca0::/44,AQ,,,,
+2a0a:6044:aca0::/48,CH,CH-ZH,Zurich,,
+2a0a:6044:aca1::/48,US,US-MO,Kansas City,,
+2a0a:6044:aca2::/48,DE,DE-NW,Dusseldorf,,
+2a0a:6044:aca4::/48,CA,CA-ON,Toronto,,
+2a0a:6044:acac::/48,JP,JP-27,Osaka,,
+2a0a:6044:acad::/48,TF,,,,
+2a0a:6044:acaf::/48,AQ,,,,
+
+2a0b:4e07:300::/40,JP,JP-27,Osaka,,
+2a0b:4e07:310::/44,JP,JP-27,Osaka,,
